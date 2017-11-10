@@ -4,7 +4,7 @@ Haskell é uma linguagem muito particular e também muito querida pelos programa
 # Como aprender Haskell de graça?
 Apesar da maioria do material estar disponivel de graça na Web é quase totalmente em Inglês, porém vale muito a pena também conferir o curso de Haskell em Português na Udemy! 
 - Iniciantes:
--- [Happy Learn Haskell](http://www.happylearnhaskelltutorial.com/)
+<br> [Happy Learn Haskell](http://www.happylearnhaskelltutorial.com/)
 -- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 -- [99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 -- [Curso de Haskell para Iniciantes](https://www.udemy.com/curso-haskell)
