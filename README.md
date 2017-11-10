@@ -3,6 +3,7 @@
 <p>
 <img src="https://scontent.fpoa6-1.fna.fbcdn.net/v/t1.0-9/23472790_10155944102836462_523604957201593202_n.jpg?oh=20eebc6f651a4ba8ad0a5c3a562bcc19&oe=5A634007" height="250" align="left"/>
 </p>
+<br><br>
 # Como aprender Haskell de graça?
 <p align="justify">Apesar da maioria do material estar disponivel de graça na Web é quase totalmente em Inglês, porém vale muito a pena também conferir o curso de Haskell em Português na Udemy!</p> 
 - Iniciantes:
