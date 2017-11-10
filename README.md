@@ -19,3 +19,6 @@ Apesar da maioria do material estar disponivel de graça na Web é quase totalme
 <br> [HUnit](http://hunit.sourceforge.net/)
 <br> [gtk2hs](https://wiki.haskell.org/Gtk2Hs)
 <br> [happstack](http://www.happstack.com/page/view-page-slug/1/happstack)
+
+# Organização
+As pastas são divididas em Scripts de Uso e de Estudo. Os de uso podem futuramente ser melhor organizados por função porém permanecem soltos na mesma basta porque o nome torna fácil a rápida importação do Script necessário. Os de Estudo vão ser divididos em pastas com o nome do matrial de origem e os que são feitos por curiosidade permanecem na pasta raiz.
