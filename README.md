@@ -8,21 +8,21 @@
 <p align="justify">Apesar da maioria do material estar disponivel de graça na Web é quase totalmente em Inglês, porém vale muito a pena também conferir o curso de Haskell em Português na Udemy!</p> 
 <p>
 - Iniciantes:
-<br> [Happy Learn Haskell](http://www.happylearnhaskelltutorial.com/)
-<br> [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-<br> [99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
-<br> [Curso de Haskell para Iniciantes](https://www.udemy.com/curso-haskell)
+ [Happy Learn Haskell](http://www.happylearnhaskelltutorial.com/)
+ [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+ [99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
+ [Curso de Haskell para Iniciantes](https://www.udemy.com/curso-haskell)
 - Intermediários:
-<br> [Real World Haskell!](http://book.realworldhaskell.org/)
-<br> [All About Monads](https://wiki.haskell.org/All_About_Monads)
-<br> [Using Monads](https://wiki.haskell.org/Tutorials#Using_monads)
-<br> [20 Intermediate Haskell Exercices](http://blog.tmorris.net/posts/20-intermediate-haskell-exercises/)
+ [Real World Haskell!](http://book.realworldhaskell.org/)
+ [All About Monads](https://wiki.haskell.org/All_About_Monads)
+ [Using Monads](https://wiki.haskell.org/Tutorials#Using_monads)
+ [20 Intermediate Haskell Exercices](http://blog.tmorris.net/posts/20-intermediate-haskell-exercises/)
 - Avançados:
-<br> [Parsec](https://wiki.haskell.org/Parsec)
-<br> [Quickcheck](http://www.cse.chalmers.se/~rjmh/QuickCheck/)
-<br> [HUnit](http://hunit.sourceforge.net/)
-<br> [gtk2hs](https://wiki.haskell.org/Gtk2Hs)
-<br> [happstack](http://www.happstack.com/page/view-page-slug/1/happstack)
+ [Parsec](https://wiki.haskell.org/Parsec)
+ [Quickcheck](http://www.cse.chalmers.se/~rjmh/QuickCheck/)
+ [HUnit](http://hunit.sourceforge.net/)
+ [gtk2hs](https://wiki.haskell.org/Gtk2Hs)
+ [happstack](http://www.happstack.com/page/view-page-slug/1/happstack)
 </p>
 
 # Organização
