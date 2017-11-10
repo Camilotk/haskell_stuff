@@ -1,8 +1,8 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1200px-Haskell-Logo.svg.png" height="30"/> Haskell
 <p align="justify">Haskell é uma linguagem muito particular e também muito querida pelos programadores. Ela é de paradigma funcional, fortemente tipada, script e compilada que é muito utilizada na Academia. Embora seja muito complexo o aprendizado, vou me esforçar ao máximo para dominá-la uma vez que é tida como uma das lingugens mais amadas pelos desenvolvedores que trabalham com ela! Atualmente estudo através de Ebooks e Cursos gratuitos e posto meus pequenos Scripts aqui para melhor controlá-los. Além desses Scripts ainda utilizo a linguagem para automatizar algumas tarefas do dia-a-dia no Curso de Arquitetura e Urbanismo.</p>
-
+<br>
 <img src="https://scontent.fpoa6-1.fna.fbcdn.net/v/t1.0-9/23472790_10155944102836462_523604957201593202_n.jpg?oh=20eebc6f651a4ba8ad0a5c3a562bcc19&oe=5A634007" height="250" align="left"/>
-
+<br>
 # Como aprender Haskell de graça?
 <p align="justify">Apesar da maioria do material estar disponivel de graça na Web é quase totalmente em Inglês, porém vale muito a pena também conferir o curso de Haskell em Português na Udemy!</p> 
 - Iniciantes:
