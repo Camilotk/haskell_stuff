@@ -6,6 +6,7 @@
 
 # Como aprender Haskell de graça?
 <p align="justify">Apesar da maioria do material estar disponivel de graça na Web é quase totalmente em Inglês, porém vale muito a pena também conferir o curso de Haskell em Português na Udemy!</p> 
+<p>
 - Iniciantes:
 <br> [Happy Learn Haskell](http://www.happylearnhaskelltutorial.com/)
 <br> [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
@@ -22,6 +23,7 @@
 <br> [HUnit](http://hunit.sourceforge.net/)
 <br> [gtk2hs](https://wiki.haskell.org/Gtk2Hs)
 <br> [happstack](http://www.happstack.com/page/view-page-slug/1/happstack)
+</p>
 
 # Organização
 <p align="justify">As pastas são divididas em Scripts de Uso e de Estudo. Os de uso podem futuramente ser melhor organizados por função porém permanecem soltos na mesma basta porque o nome torna fácil a rápida importação do Script necessário. Os de Estudo vão ser divididos em pastas com o nome do matrial de origem e os que são feitos por curiosidade permanecem na pasta raiz.
