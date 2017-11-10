@@ -1,4 +1,4 @@
-blondel x y = if (1*x + y == 63) || (2*x + y ==64) 
+blondel x y = if (2*x + y == 63) || (2*x + y ==64) 
                   then do putStrLn "O valor está correto!"
                   else do putStrLn "O valor não fecha :'("
 
