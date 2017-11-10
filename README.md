@@ -1,2 +1,21 @@
-# haskell_stuff
-pequenas aplicações de uso diário e exercícios
+# Haskell
+Haskell é uma linguagem muito particular e também muito querida pelos programadores. Ela é de paradigma funcional, fortemente tipada, script e compilada que é muito utilizada na Academia. Embora seja muito complexo o aprendizado, vou me esforçar ao máximo para dominá-la uma vez que é tida como uma das lingugens mais amadas pelos desenvolvedores que trabalham com ela! Atualmente estudo através de Ebooks e Cursos gratuitos e posto meus pequenos Scripts aqui para melhor controlá-los. Além desses Scripts ainda utilizo a linguagem para automatizar algumas tarefas do dia-a-dia no Curso de Arquitetura e Urbanismo.
+
+# Como aprender Haskell de graça?
+Apesar da maioria do material estar disponivel de graça na Web é quase totalmente em Inglês, porém vale muito a pena também conferir o curso de Haskell em Português na Udemy! 
+- Iniciantes:
+-- [Happy Learn Haskell](http://www.happylearnhaskelltutorial.com/)
+-- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+-- [99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
+-- [Curso de Haskell para Iniciantes](https://www.udemy.com/curso-haskell)
+- Intermediários:
+-- [Real World Haskell!](http://book.realworldhaskell.org/)
+-- [All About Monads](https://wiki.haskell.org/All_About_Monads)
+-- [Using Monads](https://wiki.haskell.org/Tutorials#Using_monads)
+-- [20 Intermediate Haskell Exercices](http://blog.tmorris.net/posts/20-intermediate-haskell-exercises/)
+- Avançados:
+-- [Parsec](https://wiki.haskell.org/Parsec)
+-- [Quickcheck](http://www.cse.chalmers.se/~rjmh/QuickCheck/)
+-- [HUnit](http://hunit.sourceforge.net/)
+-- [gtk2hs](https://wiki.haskell.org/Gtk2Hs)
+-- [happstack](http://www.happstack.com/page/view-page-slug/1/happstack)
